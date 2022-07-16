@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790351337153",
+    "project_id": "oxymon-96dc8",
+    "storage_bucket": "oxymon-96dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790351337153:android:d65a36e9458c4463946640",
+        "android_client_info": {
+          "package_name": "com.example.oxymon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790351337153-q01fj140g42653tbbekg8sa1sbl307s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkTjck0s1Q9eZ9Kfl_pJbqTMJUBHZqYOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790351337153-q01fj140g42653tbbekg8sa1sbl307s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
