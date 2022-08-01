@@ -5,6 +5,8 @@ import 'package:oxymon/models/loan.dart';
 
 class AppController extends GetxController {
   static AppController get to => Get.find();
+
+  
   final _loanRef = FirebaseFirestore.instance.collection('loans').withConverter(
       fromFirestore: (snapshot, _) =>
           Loan.fromJson(snapshot.data() as Map<String, dynamic>),

@@ -1,16 +1,8 @@
-# oxymon
+![Alt text](assets/screenshots/oxymon1.JPG?raw=true )
+![Alt text](assets/screenshots/oxymon2.JPG?raw=true )
+![Alt text](assets/screenshots/oxymon3.JPG?raw=true )
+![Alt text](assets/screenshots/oxymon4.JPG?raw=true )
+![Alt text](assets/screenshots/oxymon5.JPG?raw=true )
+![Alt text](assets/screenshots/oxymon6.JPG?raw=true )
+![Alt text](assets/screenshots/oxymon7.JPG?raw=true )
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
